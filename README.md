@@ -6,8 +6,8 @@
 ## Earrings with tulips represent the Netherlands'symbol
 ![minis](https://github.com/sahar119/AI-Conceptual-Image-Generation/blob/main/images/Persian%20mini2.png)
 ## Earrings with Iranian miniature designs represent the Iranian miniature paintings.
-## Earrings with Termeh designs represent the Iranian handwoven cloth.
 ![termeh](https://github.com/sahar119/AI-Conceptual-Image-Generation/blob/main/images/termeh1.png)
+## Earrings with Termeh designs represent the Iranian handwoven cloth.
 ---
 ## AI-generative Comic Cartoon
 ## <h3 align="center">The aim of this project is to generate comic cartoons from comic text</h3>
